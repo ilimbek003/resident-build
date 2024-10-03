@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a18fd63.css",
+    "main.js": "/static/js/main.dbcbfb0d.js",
+    "static/media/banner.png": "/static/media/banner.357794a2cf8c11b94ac9.png",
+    "static/media/Georgia-Bold.ttf": "/static/media/Georgia-Bold.b03fec3351d6f3d97e78.ttf",
+    "static/media/1.png": "/static/media/1.b716e48629f14afbf2f9.png",
+    "static/media/4.png": "/static/media/4.d44db0e0f094bac2a3c5.png",
+    "static/media/interview.png": "/static/media/interview.c869e24c6b3e7435c39b.png",
+    "static/media/Georgia Regular font.ttf": "/static/media/Georgia Regular font.a8e5313f93251f2633c1.ttf",
+    "static/media/3.png": "/static/media/3.9318a0488f30f92054df.png",
+    "static/media/Jost-ExtraBold.ttf": "/static/media/Jost-ExtraBold.65d4cb8b47343570ddd1.ttf",
+    "static/media/Jost-Medium.ttf": "/static/media/Jost-Medium.763024e26b2bcbcc8404.ttf",
+    "static/media/Jost-SemiBold.ttf": "/static/media/Jost-SemiBold.8a41a9f0991a217b59ef.ttf",
+    "static/media/Jost-Light.ttf": "/static/media/Jost-Light.716ee74019eb47be60d8.ttf",
+    "static/media/Jost-Bold.ttf": "/static/media/Jost-Bold.31ea9eccd9c8723bd3e8.ttf",
+    "static/media/Jost-Thin.ttf": "/static/media/Jost-Thin.6ec83e1b0542291bf3b5.ttf",
+    "static/media/Jost-Regular.ttf": "/static/media/Jost-Regular.59de2b38b1b77348c048.ttf",
+    "static/media/2.png": "/static/media/2.2c9a3d1210796e779461.png",
+    "static/media/Logo_resident_text.svg": "/static/media/Logo_resident_text.fc3799686109d7ae1110a089636ea613.svg",
+    "static/media/соцсети (1).svg": "/static/media/соцсети (1).899ebe36b7666b04500bf0c6e7d8f98b.svg",
+    "static/media/соцсети (2).svg": "/static/media/соцсети (2).1a7dcdcbf03449c15c48ba7c82f57ebb.svg",
+    "index.html": "/index.html",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/соцсети.svg": "/static/media/соцсети.207c6b09ae9bf2fba24e0e47bd4dcc96.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Black.svg": "/static/media/Black.c566cf5e396e2992983269472f5a2612.svg",
+    "main.3a18fd63.css.map": "/static/css/main.3a18fd63.css.map",
+    "main.dbcbfb0d.js.map": "/static/js/main.dbcbfb0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a18fd63.css",
+    "static/js/main.dbcbfb0d.js"
+  ]
+}
